@@ -1,0 +1,3 @@
+C:/Users/Pucep/Desktop/AMD/ITMARATHON_AMD/cmake-build-debug/CMakeFiles/ITMARATHON_AMD.dir
+C:/Users/Pucep/Desktop/AMD/ITMARATHON_AMD/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Pucep/Desktop/AMD/ITMARATHON_AMD/cmake-build-debug/CMakeFiles/rebuild_cache.dir
